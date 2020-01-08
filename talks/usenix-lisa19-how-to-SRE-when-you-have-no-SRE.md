@@ -3,6 +3,9 @@
 
 [Video](https://www.youtube.com/watch?v=eP6rgkbRh4g) [Slides](https://www.slideshare.net/squadcastHQ/how-to-sre-when-you-have-no-sre) [Transcript](#Transcript)
 
+## Abstract
+What are the key areas that the DevOps/SRE function covers? What are the skill sets that you need to get into this function? This talk addresses SRE as a function and the key areas that this function covers. Each of these functions require specific skill sets and we outline the expectations and realities of the role.
+
 ## Transcript
 **Amiya Adwitiya**:     00:00          Hi, so my talk is about how to SRE without an SRE on your team. So we're basically going to look at SRE as a function more than a job or a title, right? So how can you look at SRE as a process that everyone adopts. For those of us who don't know, I guess most of us do. SRE is Site Reliability Engineering. I'm **Amiya Adwitiya**, I'm the founder of Squad Cast, which is a reliability orchestration platform. You can check us out on squadcast.com. So let me start by telling you what the stock is not, it's not going to tell you what SRE is or why it's important. Problems that it can solve or what a day in the life looks like. What it is, is actually a very easy getting started guide on, you know if you have no idea about what SRE is, how we can get started about it.
 
