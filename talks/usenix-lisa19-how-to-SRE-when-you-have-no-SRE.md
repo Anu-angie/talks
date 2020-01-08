@@ -1,7 +1,7 @@
 # How to SRE when you have no SRE
 ## USENIX LISA19 Lightning Talk
 
-[Video](https://www.youtube.com/watch?v=eP6rgkbRh4g) [Slides](https://www.slideshare.net/squadcastHQ/how-to-sre-when-you-have-no-sre) [Transcript](#Transcript)
+[Abstract](#Abstract) [Video](https://www.youtube.com/watch?v=eP6rgkbRh4g) [Slides](https://www.slideshare.net/squadcastHQ/how-to-sre-when-you-have-no-sre) [Transcript](#Transcript)
 
 ## Abstract
 What are the key areas that the DevOps/SRE function covers? What are the skill sets that you need to get into this function? This talk addresses SRE as a function and the key areas that this function covers. Each of these functions require specific skill sets and we outline the expectations and realities of the role.
